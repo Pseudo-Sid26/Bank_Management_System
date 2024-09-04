@@ -1,4 +1,4 @@
-                                                 🏦 Bank Management System
+                                            🏦 Bank Management System
 Welcome to the Bank Management System project! This comprehensive application is designed to streamline banking operations by automating transactions, managing customer data, and providing an intuitive user interface for both customers and bank staff.
 
 📜 Project Overview
